@@ -1,0 +1,1 @@
+export { FactPage } from "./FactPage";

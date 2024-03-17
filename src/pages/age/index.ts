@@ -1,0 +1,1 @@
+export { AgePage } from "./AgePage";
